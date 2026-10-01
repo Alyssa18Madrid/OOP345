@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\",
+  "WorkspaceRootPath": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\sample_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:sample_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AA5CE6E-7AEC-4CD7-B0AC-5503E87C11BB}|Assignment_01.vcxproj|solutionrelative:settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,47 +62,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dictionary.cpp",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\dictionary.cpp",
-              "RelativeDocumentMoniker": "dictionary.cpp",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\dictionary.cpp",
-              "RelativeToolTip": "dictionary.cpp",
-              "ViewState": "AgIAANAAAAAAAAAAAAAuwO4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-29T22:06:08.068Z"
+              "DocumentIndex": 0,
+              "Title": "sample_output.txt",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\sample_output.txt",
+              "RelativeDocumentMoniker": "sample_output.txt",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\sample_output.txt",
+              "RelativeToolTip": "sample_output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-01T19:26:50.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "dictionary.cpp",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\dictionary.cpp",
+              "RelativeDocumentMoniker": "dictionary.cpp",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\dictionary.cpp",
+              "RelativeToolTip": "dictionary.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-29T22:06:08.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "dictionary.h",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\dictionary.h",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\dictionary.h",
               "RelativeDocumentMoniker": "dictionary.h",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\dictionary.h",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\dictionary.h",
               "RelativeToolTip": "dictionary.h",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwDIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-29T22:05:56.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "timeMonitor.cpp",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\timeMonitor.cpp",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\timeMonitor.cpp",
               "RelativeDocumentMoniker": "timeMonitor.cpp",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\timeMonitor.cpp",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\timeMonitor.cpp",
               "RelativeToolTip": "timeMonitor.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-29T22:05:26.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "timeMonitor.h",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\timeMonitor.h",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\timeMonitor.h",
               "RelativeDocumentMoniker": "timeMonitor.h",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\timeMonitor.h",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\timeMonitor.h",
               "RelativeToolTip": "timeMonitor.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -106,48 +124,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "logger.cpp",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\logger.cpp",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\logger.cpp",
               "RelativeDocumentMoniker": "logger.cpp",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\logger.cpp",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\logger.cpp",
               "RelativeToolTip": "logger.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-29T22:04:10.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T22:04:10.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "logger.h",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\logger.h",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\logger.h",
               "RelativeDocumentMoniker": "logger.h",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\logger.h",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\logger.h",
               "RelativeToolTip": "logger.h",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-29T22:03:42.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "event.cpp",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\event.cpp",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\event.cpp",
               "RelativeDocumentMoniker": "event.cpp",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\event.cpp",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\event.cpp",
               "RelativeToolTip": "event.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-29T22:02:35.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "event.h",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\event.h",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\event.h",
               "RelativeDocumentMoniker": "event.h",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\event.h",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\event.h",
               "RelativeToolTip": "event.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -155,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "settings.cpp",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\settings.cpp",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\settings.cpp",
               "RelativeDocumentMoniker": "settings.cpp",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\settings.cpp",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\settings.cpp",
               "RelativeToolTip": "settings.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -167,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "settings.h",
-              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\settings.h",
+              "DocumentMoniker": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\settings.h",
               "RelativeDocumentMoniker": "settings.h",
-              "ToolTip": "C:\\FALL 2026\\OOP 345\\assignments\\Assignment_01\\settings.h",
+              "ToolTip": "C:\\FALL 2026\\OOP 345\\OOP345\\Assignment_01\\settings.h",
               "RelativeToolTip": "settings.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
