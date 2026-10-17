@@ -1,0 +1,10 @@
+# Visual Studio settings and build files
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog/
