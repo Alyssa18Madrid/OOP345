@@ -114,8 +114,9 @@ namespace seneca
     TvEpisode TvShow::readEpisode(const std::string& line, std::string& id)
     {
         const char* error = "Not a valid episode.";
-        auto record = line;
+        std::string record = line;
         trim(record);
+
         if (record.empty() || record.front() == '#')
             throw error;
 
@@ -125,7 +126,7 @@ namespace seneca
         TvEpisode episode;
         episode.m_numberOverall = std::stoi(nextField(record, error));
 
-        auto season = nextField(record, error);
+        std::string season = nextField(record, error);
         trim(season);
         episode.m_season = season.empty() ? 1 : std::stoi(season);
 
@@ -134,11 +135,16 @@ namespace seneca
         trim(episode.m_airDate);
 
         std::istringstream duration(nextField(record, error));
-        unsigned int hours, minutes, seconds;
-        char firstColon, secondColon;
-        if (!(duration >> hours >> firstColon >> minutes >> secondColon >> seconds)
-            || firstColon != ':' || (secondColon != ':' && secondColon != '.'))
+        unsigned int hours{}, minutes{}, seconds{};
+        char firstSeparator{}, secondSeparator{};
+
+        if (!(duration >> hours >> firstSeparator >> minutes
+            >> secondSeparator >> seconds)
+            || firstSeparator != ':'
+            || (secondSeparator != ':' && secondSeparator != '.'))
+        {
             throw error;
+        }
 
         episode.m_length = hours * 3600 + minutes * 60 + seconds;
         episode.m_title = nextField(record, error);
