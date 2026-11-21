@@ -1,3 +1,17 @@
+/***********************************************************************
+Name: Alyssa Madrid
+Seneca Email: amadrid1@myseneca.ca
+Seneca Student ID: 103610259
+Date Completed: November 20, 2026
+
+I attempted the implementations of collection.cpp, spellChecker.cpp
+myself, using the course notes for guidance.
+
+I also asked AI for help implementing the CSV parsing helper in
+record.h and using it in book.cpp, movie.cpp, and tvShow.cpp.
+AI also helped implement and debug the episode duration parsing
+in TvShow::readEpisode in tvShow.cpp.
+***********************************************************************/
 #include "spellChecker.h"
 #include <fstream>
 #include <iomanip>
@@ -34,9 +48,10 @@ namespace seneca
 
     void SpellChecker::showStatistics(std::ostream& out) const
     {
+        out << "Spellchecker Statistics\n";
         for (int i = 0; i < WORD_COUNT; ++i)
         {
-            out << std::right << std::setw(15) << std::setfill(' ')
+            out << std::left << std::setw(15) << std::setfill(' ')
                 << m_badWords[i] << ": " << m_counts[i] << " replacements\n";
         }
     }

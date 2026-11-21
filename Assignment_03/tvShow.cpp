@@ -1,3 +1,17 @@
+/***********************************************************************
+Name: Alyssa Madrid
+Seneca Email: amadrid1@myseneca.ca
+Seneca Student ID: 103610259
+Date Completed: November 20, 2026
+
+I attempted the implementations of collection.cpp, spellChecker.cpp
+myself, using the course notes for guidance.
+
+I also asked AI for help implementing the CSV parsing helper in
+record.h and using it in book.cpp, movie.cpp, and tvShow.cpp.
+AI also helped implement and debug the episode duration parsing
+in TvShow::readEpisode in tvShow.cpp.
+***********************************************************************/
 #include "tvShow.h"
 #include "record.h"
 #include "settings.h"
@@ -65,12 +79,14 @@ namespace seneca
             out << this->getTitle() << " [" << this->getYear() << "]\n";
             out << std::setw(this->getTitle().size() + 7)
                 << std::setfill('-') << "" << '\n';
+
             while (pos < this->getSummary().size())
             {
                 out << "    " << this->getSummary().substr(
                     pos, g_settings.m_maxSummaryWidth) << '\n';
                 pos += g_settings.m_maxSummaryWidth;
             }
+
             for (auto& item : m_episodes)
             {
                 out << std::setfill('0') << std::right;
@@ -89,6 +105,7 @@ namespace seneca
                     pos += g_settings.m_maxSummaryWidth - 8;
                 }
             }
+
             out << std::setw(this->getTitle().size() + 7) << std::setfill('-')
                 << "" << std::setfill(' ') << '\n';
         }
@@ -107,9 +124,11 @@ namespace seneca
 
         TvEpisode episode;
         episode.m_numberOverall = std::stoi(nextField(record, error));
+
         auto season = nextField(record, error);
         trim(season);
         episode.m_season = season.empty() ? 1 : std::stoi(season);
+
         episode.m_numberInSeason = std::stoi(nextField(record, error));
         episode.m_airDate = nextField(record, error);
         trim(episode.m_airDate);
@@ -118,7 +137,7 @@ namespace seneca
         unsigned int hours, minutes, seconds;
         char firstColon, secondColon;
         if (!(duration >> hours >> firstColon >> minutes >> secondColon >> seconds)
-            || firstColon != ':' || secondColon != ':')
+            || firstColon != ':' || (secondColon != ':' && secondColon != '.'))
             throw error;
 
         episode.m_length = hours * 3600 + minutes * 60 + seconds;
